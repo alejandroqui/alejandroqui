@@ -26,7 +26,7 @@ Soy estudiante de Ingeniería de Sistemas apasionado por la programación, la au
 - ☁️ Trabajando con **Azure** y prácticas de **IaC (Infraestructura como Código)**
 - 🌱 Siempre aprendiendo sobre nuevas herramientas de DevOps y Cloud
 - 💬 Escríbeme sobre Python, TypeScript, automatización o bases de datos
-- 🌍 Inglés: Nivel A3
+- 🌍 Inglés: Nivel A2
 
 ---
 
